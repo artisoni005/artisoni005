@@ -1,4 +1,4 @@
-# Data Science Journey 🚀
+# Arti's Journey 🚀
 
 Hi! I'm **Arti Soni**, an aspiring data scientist. I'm currently learning data science and building my skills step-by-step. This repository is a reflection of my journey—from basics to real-world projects—as I grow in this exciting field.
 
