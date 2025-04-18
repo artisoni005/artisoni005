@@ -4,12 +4,12 @@ Hi! I'm **Arti Soni**, an aspiring data scientist. I'm currently learning data s
 
 ## What You'll Find Here
 
-- 📊 **Notebooks**: My hands-on practice with Python, pandas, NumPy, visualization, and machine learning.
-- 📁 **Datasets**: Sample data used for analysis and experiments.
-- 🛠️ **Scripts**: Reusable Python code for data cleaning, processing, and modeling.
-- ✅ **Projects** (coming soon): End-to-end data science mini-projects.
+- **Notebooks**: My hands-on practice with Python, pandas, NumPy, visualization, and machine learning.
+- **Datasets**: Sample data used for analysis and experiments.
+- **Scripts**: Reusable Python code for data cleaning, processing, and modeling.
+- **Projects** (coming soon): End-to-end data science mini-projects.
 
-## 🎯 My Learning Goals
+## My Learning Goals
 
 - Master Python for data analysis
 - Understand data wrangling, visualization, and statistics
