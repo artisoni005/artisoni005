@@ -17,7 +17,7 @@ Hi! I'm **Arti Soni**, an aspiring data scientist. I'm currently learning data s
 - Build real-world projects and share insights
 - Become job-ready in data science
 
-## 🧰 Tools & Libraries
+## Tools & Libraries
 
 - Python
 - Jupyter Notebook
@@ -25,10 +25,10 @@ Hi! I'm **Arti Soni**, an aspiring data scientist. I'm currently learning data s
 - Scikit-learn (ML)
 - Git & GitHub
 
-## 🌱 Current Status
+## Current Status
 
 Just getting started – follow along as I update this repo with practice notebooks, datasets, and projects!
 
 ---
 
-✨ _Feel free to fork or follow my journey._ Feedback is always welcome!
+_Feel free to fork or follow my journey._ Feedback is always welcome!
